@@ -38,7 +38,7 @@ To select `siesta-mode` automatically when opening files with an
 
 In addition to font-locking and indentation, autocompletion is
 provided via the
-[hippie-expand](https://www.gnu.org/software/emacs/manual/html_node/autotype/Hippie-Expand.html]
+[hippie-expand](https://www.gnu.org/software/emacs/manual/html_node/autotype/Hippie-Expand.html)
 functionality of emacs.  Running `M-x hippie-expand` on a partially
 typed keyword will attempt to complete it as an FDF (or Siesta)
 keyword, and will thereafter cycle through all possible completions.
