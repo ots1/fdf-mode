@@ -6,9 +6,9 @@ Flexible Data Format (FDF), which is the input file format used by the
 structure code.  Font-locking (syntax highlighting),
 indentation and autocompletion are provided.
 
-FDF is a generic configuration file format.  Siesta support specific
+FDF is a generic configuration file format.  Siesta supports specific
 keywords that can appear in the configuration file.  See section 4 of
-the [Siesta manual](http://departments.icmab.es/leem/siesta/Documentation/Manuals/manuals.html)
+the [Siesta manual](http://departments.icmab.es/leem/siesta/Documentation/Manuals/manuals.html).
 
 This project provides two major modes: a mode for editing generic FDF files
 (`fdf-mode`), and a mode for Siesta-specific FDF files derived from it
